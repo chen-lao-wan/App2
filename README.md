@@ -1,4 +1,4 @@
-English
+English:
 	If you see this,then I have stopped updating.
-中文
-	如果你看到这个，那么我已经停止更新了
+涓枃:
+	濡傛灉浣犵湅鍒拌繖涓紝閭ｄ箞鎴戝凡缁忓仠姝㈡洿鏂颁簡
